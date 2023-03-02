@@ -1,0 +1,260 @@
+{
+  "pedestrians" : {
+    "count" : 100,
+    "speed" : 5.0
+  },
+  "bicyclists" : {
+    "count" : 100,
+    "speed" : 30.0
+  },
+  "cars" : {
+    "count" : 100,
+    "speed" : 60.0
+  },
+  "startTime" : "2014-09-24T00:15:00.000-07:00",
+  "trackingInterval" : 2.0,
+  "fileName" : "TGIFriday.json",
+  "beginOnlyFromSpecialPoints" : false,
+  "fluctuation" : 0.000035,
+  "routes" : [ {
+    "id" : 1,
+    "points" : [ {
+      "lat" : 33.01189,
+      "lng" : -96.709733,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.011915,
+      "lng" : -96.708929,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.012311,
+      "lng" : -96.709049,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.012284,
+      "lng" : -96.70979,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 2,
+    "points" : [ {
+      "lat" : 33.01204857922235,
+      "lng" : -96.70956462621689,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.012023838211256,
+      "lng" : -96.70991331338882,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.013402576700415,
+      "lng" : -96.70995891094208,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01438769801255,
+      "lng" : -96.70998573303223,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 3,
+    "points" : [ {
+      "lat" : 33.0121183038527,
+      "lng" : -96.70928835868835,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.0120958120425,
+      "lng" : -96.70890212059021,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01232522823751,
+      "lng" : -96.70890212059021,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01236121503749,
+      "lng" : -96.70907914638519,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01318440907659,
+      "lng" : -96.7091703414917,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01318440907659,
+      "lng" : -96.70871436595917,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01487125809996,
+      "lng" : -96.70878410339355,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01712483804088,
+      "lng" : -96.70908987522125,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 8,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01964374145859,
+      "lng" : -96.70985162258148,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 9,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 4,
+    "points" : [ {
+      "lat" : 33.014646346761225,
+      "lng" : -96.71218514442444,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.013926626622336,
+      "lng" : -96.71216368675232,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01396261276882,
+      "lng" : -96.71256065368652,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01369271631239,
+      "lng" : -96.71272158622742,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01292800519988,
+      "lng" : -96.71271085739136,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01235221833886,
+      "lng" : -96.71266794204712,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01199234964163,
+      "lng" : -96.71223878860474,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01168646009432,
+      "lng" : -96.71186327934265,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 8,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.011839405000586,
+      "lng" : -96.71155214309692,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 9,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01093972527237,
+      "lng" : -96.71037197113037,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 10,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.010435900615526,
+      "lng" : -96.71094059944153,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 11,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01034593162393,
+      "lng" : -96.71351552009583,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 12,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.009050367968285,
+      "lng" : -96.71346187591553,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 13,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 5,
+    "points" : [ {
+      "lat" : 33.01352178146273,
+      "lng" : -96.7110800743103,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01346780196771,
+      "lng" : -96.70971751213074,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    } ]
+  } ],
+  "wifi" : []
+}

@@ -1,0 +1,56 @@
+{
+  "steps" : [ {
+    "id" : 0,
+    "scenarios" : [ {
+      "fileName" : "SevenEleven.scenario",
+      "selected" : false
+    }, {
+      "fileName" : "Super8Hotel.scenario",
+      "selected" : false
+    } ],
+    "outputs" : [ {
+      "path" : null,
+      "partitionType" : null,
+      "separator" : null,
+      "factoryName" : null,
+      "description" : null,
+      "selected" : false,
+      "location" : false
+    }, {
+      "path" : null,
+      "partitionType" : null,
+      "separator" : null,
+      "factoryName" : null,
+      "description" : null,
+      "selected" : false,
+      "location" : false
+    } ]
+  }, {
+    "id" : 0,
+    "scenarios" : [ {
+      "fileName" : "SevenEleven.scenario",
+      "selected" : false
+    }, {
+      "fileName" : "Super8Hotel.scenario",
+      "selected" : false
+    } ],
+    "outputs" : [ {
+      "path" : null,
+      "partitionType" : null,
+      "separator" : null,
+      "factoryName" : null,
+      "description" : null,
+      "selected" : false,
+      "location" : false
+    }, {
+      "path" : null,
+      "partitionType" : null,
+      "separator" : null,
+      "factoryName" : null,
+      "description" : null,
+      "selected" : false,
+      "location" : false
+    } ]
+  } ],
+  "fileName" : "some3.job"
+}

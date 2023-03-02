@@ -1,0 +1,74 @@
+{
+  "pedestrians" : {
+    "count" : 10,
+    "speed" : 5.0
+  },
+  "bicyclists" : {
+    "count" : 10,
+    "speed" : 30.0
+  },
+  "cars" : {
+    "count" : 10,
+    "speed" : 60.0
+  },
+  "startTime" : "2014-11-05T13:10:53.000-08:00",
+  "trackingInterval" : 2.0,
+  "fileName" : "options.json",
+  "beginOnlyFromSpecialPoints" : false,
+  "fluctuation" : 0.0,
+  "routes" : [ {
+    "id" : 1,
+    "points" : [ {
+      "lat" : 37.442665880117914,
+      "lng" : -122.16273307800293,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 37.45351739370957,
+      "lng" : -122.15198278427118,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    } ]
+  } ],
+  "wifi" : [ {
+    "radius" : 0.001916654,
+    "id" : 1,
+    "lat" : 37.444454699494976,
+    "lng" : -122.16103792190552,
+    "whenCrossing" : 0,
+    "timeSpent" : 2.0,
+    "whenCrossingAsEnum" : "STAYALL"
+  }, {
+    "radius" : 0.001916654,
+    "id" : 2,
+    "lat" : 37.44942909615859,
+    "lng" : -122.15625286102295,
+    "whenCrossing" : 0,
+    "timeSpent" : 2.0,
+    "whenCrossingAsEnum" : "STAYALL"
+  }, {
+    "radius" : 0.001916654,
+    "id" : 3,
+    "lat" : 37.44752114749942,
+    "lng" : -122.15816259384155,
+    "whenCrossing" : 0,
+    "timeSpent" : 2.0,
+    "whenCrossingAsEnum" : "STAYALL"
+  }, {
+    "radius" : 0.001916654,
+    "id" : 4,
+    "lat" : 37.45103037265278,
+    "lng" : -122.15477228164673,
+    "whenCrossing" : 0,
+    "timeSpent" : 2.0,
+    "whenCrossingAsEnum" : "STAYALL"
+  } ]
+}
+
+

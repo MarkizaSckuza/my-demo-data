@@ -1,0 +1,257 @@
+{
+  "pedestrians" : {
+    "count" : 100,
+    "speed" : 5.0
+  },
+  "bicyclists" : {
+    "count" : 100,
+    "speed" : 30.0
+  },
+  "cars" : {
+    "count" : 100,
+    "speed" : 60.0
+  },
+  "startTime" : "2014-09-24T00:15:00.000-07:00",
+  "trackingInterval" : 2.0,
+  "fileName" : "WellsFargoBank.json",
+  "beginOnlyFromSpecialPoints" : false,
+  "fluctuation" : 0.000035,
+  "routes" : [ {
+    "id" : 1,
+    "points" : [ {
+      "lat" : 33.019131,
+      "lng" : -96.71045,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019193,
+      "lng" : -96.710206,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019403,
+      "lng" : -96.710304,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019362,
+      "lng" : -96.7105,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 2,
+    "points" : [ {
+      "lat" : 33.01924791854456,
+      "lng" : -96.71042829751968,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01917370155031,
+      "lng" : -96.71084403991699,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01878687256896,
+      "lng" : -96.71068847179413,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.0187576354258,
+      "lng" : -96.71085476875305,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.0186924140715,
+      "lng" : -96.71084403991699,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01868341801884,
+      "lng" : -96.71078234910965,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01872839827294,
+      "lng" : -96.71078503131866,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01873514530908,
+      "lng" : -96.71069115400314,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 8,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01859120842621,
+      "lng" : -96.71062141656876,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 9,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.018433777191504,
+      "lng" : -96.71058386564255,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 10,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.018276345675694,
+      "lng" : -96.7105382680893,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 11,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01823586324045,
+      "lng" : -96.71064555644989,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 12,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.018145902206754,
+      "lng" : -96.71068847179413,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 13,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01791650115533,
+      "lng" : -96.71070456504822,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 14,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.017837784970745,
+      "lng" : -96.71046584844589,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 15,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.0176061340769,
+      "lng" : -96.71023517847061,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 16,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01735873924637,
+      "lng" : -96.71011716127396,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 17,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01734299591546,
+      "lng" : -96.70985698699951,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 18,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01728676971076,
+      "lng" : -96.70966655015945,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 19,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 3,
+    "points" : [ {
+      "lat" : 33.019211934555145,
+      "lng" : -96.71043366193771,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01896904224255,
+      "lng" : -96.71033978462219,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01887458394025,
+      "lng" : -96.7102512717247,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01890382104464,
+      "lng" : -96.71012789011002,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 4,
+    "points" : [ {
+      "lat" : 33.021622829371545,
+      "lng" : -96.7102861404419,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01968197425959,
+      "lng" : -96.70984894037247,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01764436776151,
+      "lng" : -96.70924007892609,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.016816717236544,
+      "lng" : -96.70904293656349,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01598456077846,
+      "lng" : -96.70891016721725,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    } ]
+  } ],
+  "wifi" : []
+}

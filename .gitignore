@@ -1,0 +1,30 @@
+/cip-geo-data-generator-webapp/target/*
+/cip-geo-data-generator/target/*
+/cip-geo-data-core/target/*
+/.mvn
+._.DS_Store
+output
+outputwifi
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+*.log
+.nb-gradle/

@@ -1,0 +1,539 @@
+{
+  "pedestrians" : {
+    "count" : 100,
+    "speed" : 5.0
+  },
+  "bicyclists" : {
+    "count" : 100,
+    "speed" : 30.0
+  },
+  "cars" : {
+    "count" : 100,
+    "speed" : 60.0
+  },
+  "startTime" : "2014-09-24T00:15:00.000-07:00",
+  "trackingInterval" : 2.0,
+  "fileName" : "BraumsIceCream.json",
+  "beginOnlyFromSpecialPoints" : false,
+  "fluctuation" : 0.011,
+  "routes" : [ {
+    "id" : 1,
+    "points" : [ {
+      "lat" : 33.018623,
+      "lng" : -96.707645,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.018636,
+      "lng" : -96.707217,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019568,
+      "lng" : -96.707267,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019569,
+      "lng" : -96.707644,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "StayFor1Min"
+    } ]
+  }, {
+    "id" : 2,
+    "points" : [ {
+      "lat" : 33.01958526773087,
+      "lng" : -96.69348478317261,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.0196392434809,
+      "lng" : -96.6985273361206,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01978317865269,
+      "lng" : -96.70774340629578,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019081492470455,
+      "lng" : -96.70775413513184,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019009524341115,
+      "lng" : -96.70747518539429,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 5,
+      "poiTypeEnum" : "StayFor1Min"
+    } ]
+  }, {
+    "id" : 3,
+    "points" : [ {
+      "lat" : 33.01901852036049,
+      "lng" : -96.70736253261566,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "StayFor1Min"
+    }, {
+      "lat" : 33.01901402235093,
+      "lng" : -96.70657932758331,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01694041549908,
+      "lng" : -96.7065954208374,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.017075358860225,
+      "lng" : -96.70607507228851,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01744870108325,
+      "lng" : -96.70546352863312,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.017687099507036,
+      "lng" : -96.70507192611694,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.016661531898265,
+      "lng" : -96.70509338378906,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01607227493755,
+      "lng" : -96.70556545257568,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 8,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01575290501562,
+      "lng" : -96.70565128326416,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 9,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.013553269486245,
+      "lng" : -96.70566737651825,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 10,
+      "poiTypeEnum" : "StayFor1Min"
+    } ]
+  }, {
+    "id" : 4,
+    "points" : [ {
+      "lat" : 33.01962125156791,
+      "lng" : -96.71092987060547,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01965273741324,
+      "lng" : -96.70786678791046,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "StayFor1Min"
+    }, {
+      "lat" : 33.01961675358909,
+      "lng" : -96.70511484146118,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.018006462423095,
+      "lng" : -96.70506119728088,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01789401082404,
+      "lng" : -96.70492172241211,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01786252435062,
+      "lng" : -96.70464277267456,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.0178760185549,
+      "lng" : -96.70248627662659,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 5,
+    "points" : [ {
+      "lat" : 33.01853273400042,
+      "lng" : -96.70543670654297,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01853273400042,
+      "lng" : -96.70774340629578,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01894655217975,
+      "lng" : -96.70775413513184,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01891056806737,
+      "lng" : -96.70746445655823,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "StayFor1Min"
+    } ]
+  }, {
+    "id" : 6,
+    "points" : [ {
+      "lat" : 33.02365134837255,
+      "lng" : -96.70594096183777,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.022257027689044,
+      "lng" : -96.70599460601807,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.02196916518842,
+      "lng" : -96.70616626739502,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.02136645003326,
+      "lng" : -96.70623064041138,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.02135745425346,
+      "lng" : -96.70665979385376,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.019468320159156,
+      "lng" : -96.70657396316528,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01949530807407,
+      "lng" : -96.70708894729614,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01909948449362,
+      "lng" : -96.70713186264038,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 8,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.01909048848248,
+      "lng" : -96.70736789703369,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 9,
+      "poiTypeEnum" : "StayFor1Min"
+    } ]
+  }, {
+    "id" : 7,
+    "points" : [ {
+      "lat" : 33.00887942412027,
+      "lng" : -96.71685218811035,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "StayFor1Min"
+    }, {
+      "lat" : 33.00911334719717,
+      "lng" : -96.706702709198,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.00722395076766,
+      "lng" : -96.7042350769043,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.007008017170044,
+      "lng" : -96.68209075927734,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.99081149087488,
+      "lng" : -96.68234825134277,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 5,
+      "poiTypeEnum" : "StayFor1Min"
+    } ]
+  }, {
+    "id" : 8,
+    "points" : [ {
+      "lat" : 33.01837980070346,
+      "lng" : -96.69925689697266,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "StayFor1Min"
+    }, {
+      "lat" : 32.98303610226847,
+      "lng" : -96.69985771179199,
+      "fluctuation" : 0.0,
+      "poiType" : 2,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "StayFor1Min"
+    } ]
+  }, {
+    "id" : 9,
+    "points" : [ {
+      "lat" : 33.00103364467716,
+      "lng" : -96.74787998199463,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.998550202127916,
+      "lng" : -96.74002647399902,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.99739843692908,
+      "lng" : -96.7326021194458,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.99732645110496,
+      "lng" : -96.71680927276611,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.997578401232445,
+      "lng" : -96.71363353729248,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.99721847225868,
+      "lng" : -96.71135902404785,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.99714648628775,
+      "lng" : -96.68857097625732,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.996966521103445,
+      "lng" : -96.65162086486816,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 8,
+      "poiTypeEnum" : "None"
+    } ]
+  }, {
+    "id" : 10,
+    "points" : [ {
+      "lat" : 33.014457420793384,
+      "lng" : -96.66445255279541,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 1,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 33.00913134125434,
+      "lng" : -96.66496753692627,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 2,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.99153139961965,
+      "lng" : -96.66509628295898,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 3,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.9912434368264,
+      "lng" : -96.64943218231201,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 4,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.990631512771145,
+      "lng" : -96.64655685424805,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 5,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.99059551710636,
+      "lng" : -96.6406774520874,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 6,
+      "poiTypeEnum" : "None"
+    }, {
+      "lat" : 32.97047164294645,
+      "lng" : -96.64127826690674,
+      "fluctuation" : 0.0,
+      "poiType" : 0,
+      "routeStartOrEnd" : false,
+      "id" : 7,
+      "poiTypeEnum" : "None"
+    } ]
+  } ],
+  "wifi" : [ ]
+}
